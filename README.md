@@ -1,1 +1,1 @@
-# Projet-tp2-java-struct-donnees
+# Projet-bibliotheque-java-struct-donnees
